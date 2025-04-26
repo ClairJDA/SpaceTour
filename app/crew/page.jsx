@@ -36,9 +36,9 @@ function CrewPage() {
               alt="crew photo"
               width={300}
               height={300}
-              className="mx-auto md:w-[400px] object-cover"
+              className="mx-auto md:w-[400px] object-cover mask-b-from-85%"
             />
-            <div className="2xl:hidden h-[60px] w-full bottom-8 relative bg-black blur-lg"></div>
+            {/* <div className="2xl:hidden h-[60px] w-full bottom-8 relative bg-black blur-lg"></div> */}
           </div>
         </div>
       </div>
